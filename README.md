@@ -2,4 +2,4 @@
  
  
 - Pertemuan 1 : Pengenalan konsep, tool, library & pemrograman
-video : [video pertemuan 1](https://www.youtube.com/watch?v=-PHjHe1OYQk) • PPT : [](01. Pengenalan konsep, tool, library & pemrograman/01. Pengenalan konsep, tool, library & pemrograman.pptx)
+video : [video pertemuan 1](https://www.youtube.com/watch?v=-PHjHe1OYQk) • PPT : []('01. Pengenalan konsep, tool, library & pemrograman/01. Pengenalan konsep, tool, library & pemrograman.pptx')
