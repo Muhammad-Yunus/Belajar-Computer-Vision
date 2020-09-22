@@ -10,5 +10,5 @@ video : [video pertemuan 2](https://www.youtube.com/watch?v=QvDrelzr9oo) • NOT
 - Pertemuan 3 : Basic Python - Part 2 (Python Data Structure)\
 video : [video pertemuan 3](https://www.youtube.com/watch?v=1YJBOgZeEXw) • NOTEBOOK : [notebook pertemuan 3](03.%20Basic%20Python%20-%20Part%202/03%20Basic%20Python%20-%20Part%202.ipynb)
 
-- Pertemuan 4 : Basic Python - Part 2 (IF, FOR, WHILE & FUNCTION)\
+- Pertemuan 4 : Basic Python - Part 3 (IF, FOR, WHILE & FUNCTION)\
 video : [video pertemuan 4](https://www.youtube.com/watch?v=_T6y1td48MM) • NOTEBOOK : [notebook pertemuan 3](04.%20Basic%20Python%20-%20Part%203/04.%20Basic%20Python%20-%20Part%203.ipynb)
