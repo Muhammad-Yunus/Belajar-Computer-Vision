@@ -15,3 +15,7 @@ video : [video pertemuan 4](https://www.youtube.com/watch?v=_T6y1td48MM) • NOT
 
 - Pertemuan 5 : Basic Python - Part 5 (Class, Object, Inheritance, Scope & Module)\
 video : [video pertemuan 5](https://www.youtube.com/watch?v=n-L76lU2jqQ) • NOTEBOOK : [notebook pertemuan 5](05.%20Basic%20Python%20-%20Part%204/05.%20Basic%20Python%20-%20Part%204.ipynb)
+
+- Pertemuan 6 : Python Numpy Fundamentals \
+video : [video pertemuan 6](https://www.youtube.com/watch?v=xRQOmbuImKk) • NOTEBOOK : [notebook pertemuan 6](06.%20Python%20Numpy%20Fundamentals/06.%20Python%20Numpy%20Fundamentals.ipynb)
+
