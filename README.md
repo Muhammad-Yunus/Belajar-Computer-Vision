@@ -19,3 +19,6 @@ video : [video pertemuan 5](https://www.youtube.com/watch?v=n-L76lU2jqQ) • NOT
 - Pertemuan 6 : Python Numpy Fundamentals \
 video : [video pertemuan 6](https://www.youtube.com/watch?v=xRQOmbuImKk) • NOTEBOOK : [notebook pertemuan 6](06.%20Python%20Numpy%20Fundamentals/06.%20Python%20Numpy%20Fundamentals.ipynb)
 
+
+- Pertemuan 7 : OpenCV - Part 1 | Load, Display & Save (Image & Video) \
+video : [video pertemuan 7](https://youtu.be/QUWAd0UvdDs) • NOTEBOOK : [notebook pertemuan 7](07.%20OpenCV%20-%20Part%201/OpenCV%20-%20Part%201.ipynb)
