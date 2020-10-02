@@ -22,3 +22,9 @@ video : [video pertemuan 6](https://www.youtube.com/watch?v=xRQOmbuImKk) • NOT
 
 - Pertemuan 7 : OpenCV - Part 1 | Load, Display & Save (Image & Video) \
 video : [video pertemuan 7](https://youtu.be/QUWAd0UvdDs) • NOTEBOOK : [notebook pertemuan 7](07.%20OpenCV%20-%20Part%201/OpenCV%20-%20Part%201.ipynb)
+
+
+- Pertemuan 8 : OpenCV - Part 2 | Crop, Resize, Blend & Convert Color Image \
+video : [video pertemuan 8](....) • NOTEBOOK : [notebook pertemuan 8](08.%20OpenCV%20-%20Part%202/08.%20OpenCV%20-%20Part%202.ipynb)
+
+
