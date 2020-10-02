@@ -25,6 +25,6 @@ video : [video pertemuan 7](https://youtu.be/QUWAd0UvdDs) • NOTEBOOK : [notebo
 
 
 - Pertemuan 8 : OpenCV - Part 2 | Crop, Resize, Blend & Convert Color Image \
-video : [video pertemuan 8](....) • NOTEBOOK : [notebook pertemuan 8](08.%20OpenCV%20-%20Part%202/08.%20OpenCV%20-%20Part%202.ipynb)
+video : [video pertemuan 8](https://youtu.be/5zBTe7jdQrs) • NOTEBOOK : [notebook pertemuan 8](08.%20OpenCV%20-%20Part%202/08.%20OpenCV%20-%20Part%202.ipynb)
 
 
