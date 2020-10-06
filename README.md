@@ -28,3 +28,5 @@ video : [video pertemuan 7](https://youtu.be/QUWAd0UvdDs) • NOTEBOOK : [notebo
 video : [video pertemuan 8](https://youtu.be/rFHmGrsolqs) • NOTEBOOK : [notebook pertemuan 8](08.%20OpenCV%20-%20Part%202/08.%20OpenCV%20-%20Part%202.ipynb)
 
 
+- Pertemuan 9 : OpenCV - Part 3 | Image Smoothing, Image Thresholding & Edge Detection \
+video : [video pertemuan 9](https://youtu.be/TLvthcsrmwg) • NOTEBOOK : [notebook pertemuan 9](09.%20OpenCV%20-%20Part%203/OpenCV%20-%20Part%203.ipynb)
