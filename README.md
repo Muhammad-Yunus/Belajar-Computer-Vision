@@ -30,3 +30,9 @@ video : [video pertemuan 8](https://youtu.be/rFHmGrsolqs) • NOTEBOOK : [notebo
 
 - Pertemuan 9 : OpenCV - Part 3 | Image Smoothing, Image Thresholding & Edge Detection \
 video : [video pertemuan 9](https://youtu.be/TLvthcsrmwg) • NOTEBOOK : [notebook pertemuan 9](09.%20OpenCV%20-%20Part%203/OpenCV%20-%20Part%203.ipynb)
+
+
+- Pertemuan 10 : OpenCV - Part 4 | Drawing Tool, Finding Contour, Draw Contour & Contour Feature \
+video : [video pertemuan 10](...) • NOTEBOOK : [notebook pertemuan 10](10.%20OpenCV%20-%20Part%204/10.%20OpenCV%20-%20Part%204.ipynb)
+
+
