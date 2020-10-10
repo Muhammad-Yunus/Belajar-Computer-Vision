@@ -33,6 +33,6 @@ video : [video pertemuan 9](https://youtu.be/TLvthcsrmwg) • NOTEBOOK : [notebo
 
 
 - Pertemuan 10 : OpenCV - Part 4 | Drawing Tool, Finding Contour, Draw Contour & Contour Feature \
-video : [video pertemuan 10](...) • NOTEBOOK : [notebook pertemuan 10](10.%20OpenCV%20-%20Part%204/10.%20OpenCV%20-%20Part%204.ipynb)
+video : [video pertemuan 10](https://youtu.be/4bqgcQ3tt00) • NOTEBOOK : [notebook pertemuan 10](10.%20OpenCV%20-%20Part%204/10.%20OpenCV%20-%20Part%204.ipynb)
 
 
