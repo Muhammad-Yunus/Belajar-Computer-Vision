@@ -36,3 +36,7 @@ video : [video pertemuan 9](https://youtu.be/TLvthcsrmwg) • NOTEBOOK : [notebo
 video : [video pertemuan 10](https://youtu.be/4bqgcQ3tt00) • NOTEBOOK : [notebook pertemuan 10](10.%20OpenCV%20-%20Part%204/10.%20OpenCV%20-%20Part%204.ipynb)
 
 
+- Pertemuan 11 : OpenCV - Part 5 | Region Mask, Range Thresholding & Hough Transform \
+video : [video pertemuan 11](https://youtu.be/XMp7HYem9Ns) • NOTEBOOK : [notebook pertemuan 11](11.%20OpenCV%20-%20Part%205/11.%20OpenCV%20-%20Part%205.ipynb)
+
+
