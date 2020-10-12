@@ -40,3 +40,9 @@ video : [video pertemuan 10](https://youtu.be/4bqgcQ3tt00) • NOTEBOOK : [noteb
 video : [video pertemuan 11](https://youtu.be/7fM5_O5zs2U) • NOTEBOOK : [notebook pertemuan 11](11.%20OpenCV%20-%20Part%205/11.%20OpenCV%20-%20Part%205.ipynb)
 
 
+- Pertemuan 12 : OpenCV - Part 6 | Morphological Transform & Operation \
+video : [video pertemuan 12](https://youtu.be/J2Kuok4jx7s) • NOTEBOOK : [notebook pertemuan 12](12.%20OpenCV%20-%20Part%206/12.%20OpenCV%20-%20Part%205.ipynb)
+
+
+
+
