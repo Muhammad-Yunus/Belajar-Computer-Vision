@@ -47,3 +47,4 @@ video : [video pertemuan 12](https://youtu.be/J2Kuok4jx7s) • NOTEBOOK : [noteb
 - Pertemuan 13 : OpenCV - Part 7 | Image Pyramid & Geometric Transform \
 video : [video pertemuan 13](https://youtu.be/1dYcSaKaJR8) • NOTEBOOK : [notebook pertemuan 13](13.%20OpenCV%20-%20Part%207/13.%20OpenCV%20-%20Part%207.ipynb
 )
+
