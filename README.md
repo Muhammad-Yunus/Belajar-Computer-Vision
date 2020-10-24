@@ -45,6 +45,8 @@ video : [video pertemuan 12](https://youtu.be/J2Kuok4jx7s) • NOTEBOOK : [noteb
 
 
 - Pertemuan 13 : OpenCV - Part 7 | Image Pyramid & Geometric Transform \
-video : [video pertemuan 13](https://youtu.be/1dYcSaKaJR8) • NOTEBOOK : [notebook pertemuan 13](13.%20OpenCV%20-%20Part%207/13.%20OpenCV%20-%20Part%207.ipynb
-)
+video : [video pertemuan 13](https://youtu.be/1dYcSaKaJR8) • NOTEBOOK : [notebook pertemuan 13](13.%20OpenCV%20-%20Part%207/13.%20OpenCV%20-%20Part%207.ipynb)
+
+- Pertemuan 14 : OpenCV - Part 8 | Cascade Classifier & Cascade Classifier Training\
+video : [video pertemuan 14](https://www.youtube.com/watch?v=FCHp2QBFSdQ) • NOTEBOOK : [notebook pertemuan 14](14.%20OpenCV%20-%20Part%208/14.%20OpenCV%20-%20Part%208.ipynb)
 
