@@ -50,3 +50,8 @@ video : [video pertemuan 13](https://youtu.be/1dYcSaKaJR8) • NOTEBOOK : [noteb
 - Pertemuan 14 : OpenCV - Part 8 | Cascade Classifier & Cascade Classifier Training\
 video : [video pertemuan 14](https://www.youtube.com/watch?v=FCHp2QBFSdQ) • NOTEBOOK : [notebook pertemuan 14](14.%20OpenCV%20-%20Part%208/14.%20OpenCV%20-%20Part%208.ipynb)
 
+
+- Pertemuan 15 : OpenCV DNN - Part 1 | OpenCV DNN & Darknet (Yolo Training & Inferencing)\
+video : [video pertemuan 15](https://youtu.be/VAgOOe4x-wE) • NOTEBOOK : [notebook pertemuan 15](15.%20OpenCV%20DNN%20-%20Part%201/15.%20OpenCV%20DNN%20-%20Part%201.ipynb)
+
+
