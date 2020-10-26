@@ -55,3 +55,6 @@ video : [video pertemuan 14](https://www.youtube.com/watch?v=FCHp2QBFSdQ) • NO
 video : [video pertemuan 15](https://youtu.be/VAgOOe4x-wE) • NOTEBOOK : [notebook pertemuan 15](15.%20OpenCV%20DNN%20-%20Part%201/15.%20OpenCV%20DNN%20-%20Part%201.ipynb)
 
 
+- Pertemuan 16 : OpenCV DNN - Part 2 | OpenCV DNN & Tensorflow (EAST Model for Text Detection) and Tesseract OCR for Text Recognition\
+video : [video pertemuan 16](https://www.youtube.com/watch?v=Tu9zsYV9o1Q) • NOTEBOOK : [notebook pertemuan 16](16.%20OpenCV%20DNN%20-%20Part%202/16%20OpenCV%20DNN%20-%20Part%202.ipynb)
+
