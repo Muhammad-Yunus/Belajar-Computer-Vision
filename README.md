@@ -58,3 +58,7 @@ video : [video pertemuan 15](https://youtu.be/VAgOOe4x-wE) • NOTEBOOK : [noteb
 - Pertemuan 16 : OpenCV DNN - Part 2 | OpenCV DNN (Tensorflow EAST Model) & Tesseract OCR for ALPR system\
 video : [video pertemuan 16](https://www.youtube.com/watch?v=Tu9zsYV9o1Q) • NOTEBOOK : [notebook pertemuan 16](16.%20OpenCV%20DNN%20-%20Part%202/16%20OpenCV%20DNN%20-%20Part%202.ipynb)
 
+
+- Pertemuan 17 : OpenCV ML | OCR using SVM on OpenCV ML \
+video : [video pertemuan 17](https://youtu.be/nQ8_NE8btQ0) • NOTEBOOK : [notebook pertemuan 17](17.%20OpenCV%20ML/17.%20OpenCV%20ML.ipynb)
+
